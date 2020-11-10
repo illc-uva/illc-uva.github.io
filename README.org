@@ -5,7 +5,7 @@ This is a list of [[https://github.com][Github]] repositories created or maintai
 and former ILLC members. Current versions of the repos [[https://github.com/illc-uva?tab=repositories][are also
 available here]].
 
-#+begin_src bash :tangle repo.list
+#+begin_src html :tangle repo.list
     https://github.com/probabll/dists.pt
     https://github.com/nicola-decao/BNAF
     https://github.com/Roxot/AEVNMT.pt
@@ -20,4 +20,4 @@ available here]].
 #+end_src
 
 If you wish to add a repository to this list and to [[https://github.com/illc-uva?tab=repositories][this collection of
-repositories]]. Please send and email to [[mailto:illc@uva.nl][illc@uva.nl]].
+repositories]], please send and email to [[mailto:illc@uva.nl][illc@uva.nl]].
