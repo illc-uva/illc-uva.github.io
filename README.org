@@ -1,5 +1,9 @@
-#+ATTR_HTML: :width 500
-[[https://github.com/illc-uva/illc-uva.github.io/blob/master/illclogo.jpg]]
+#+EXPORT_FILE_NAME: index.html
+#+OPTIONS: html-style:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="site.css" />
+
+#+ATTR_HTML: :alt illclogo :width 750
+[[https://raw.githubusercontent.com/illc-uva/illc-uva.github.io/master/illclogo.jpg]]
 
 This is a list of [[https://github.com][Github]] repositories created or maintained by current
 and former ILLC members. Current versions of the repos [[https://github.com/illc-uva?tab=repositories][are also
