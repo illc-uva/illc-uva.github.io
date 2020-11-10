@@ -1,0 +1,23 @@
+#+ATTR_HTML: :width 500
+[[~/ib/Events/logos/illclogo.jpg]]
+
+This is a list of [[https://github.com][Github]] repositories created or maintained by current
+and former ILLC members. Current versions of the repos [[https://github.com/illc-uva?tab=repositories][are also
+available here]].
+
+#+begin_src bash :tangle repo.list
+    https://github.com/probabll/dists.pt
+    https://github.com/nicola-decao/BNAF
+    https://github.com/Roxot/AEVNMT.pt
+    https://github.com/bastings/interpretable_predictions
+    https://github.com/tom-pelsmaeker/deep-generative-lm
+    https://github.com/uva-slpl/embedalign
+    https://github.com/wilkeraziz/grasp
+    https://github.com/andreasvc/disco-dop
+    https://github.com/stanojevic/beer
+    https://github.com/WaarOverheid/open-raadsinformatie
+    https://github.com/vitutorial/VITutorial
+#+end_src
+
+If you wish to add a repository to this list and to [[https://github.com/illc-uva?tab=repositories][this collection of
+repositories]]. Please send and email to [[mailto:illc@uva.nl][illc@uva.nl]].
