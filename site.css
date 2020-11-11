@@ -36,19 +36,17 @@ strong {
   color: #335553;
 }
 
-/* code, */
-/* pre { */
-/*   background: #eee; */
-/* } */
+.hero-image {
+    background-image: url("https://raw.githubusercontent.com/illc-uva/illc-uva.github.io/master/illclogo.jpg");
 
-/* code { */
-/*   padding: 2px 4px; */
-/*   vertical-align: text-bottom; */
-/* } */
+    height: 10%;
 
-/* pre { */
-/*   padding: 1em; */
-/* } */
+    /* Position and center the image to scale nicely on all screens */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
 
 a {
   color: #005E11;
