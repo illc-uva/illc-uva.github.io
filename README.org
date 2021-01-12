@@ -24,6 +24,7 @@ available here]].
 + Material for a tutorial on variational inference for NLP audiences ([[https://github.com/vitutorial/VITutorial][url]])
 + Open Raadsinformatie API ([[https://github.com/WaarOverheid/open-raadsinformatie][url]])
 + Pytorch implementation of Block Neural Autoregressive Flow ([[https://github.com/nicola-decao/BNAF][url]])
++ A symbolic model checker for Dynamic Epistemic Logic ([[https://github.com/jrclogic/SMCDEL][link]])
 
 If you wish to add a repository to this list and to [[https://github.com/illc-uva?tab=repositories][this collection of
 repositories]], please send an email to [[mailto:illc@uva.nl][illc@uva.nl]].
