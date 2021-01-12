@@ -13,6 +13,7 @@ This is a list of [[https://github.com][Github]] repositories created or maintai
 or former ILLC members. Current versions of the repos [[https://github.com/illc-uva?tab=repositories][are also
 available here]].
 
++ SignLab ([[https://github.com/froelofs/signlab][url]])
 + Auto-Encoding Variational Neural Machine Translation (PyTorch) ([[https://github.com/Roxot/AEVNMT.pt][url]])
 + BEER 2.0 ([[https://github.com/stanojevic/beer][url]])
 + Discontinuous DOP ([[https://github.com/andreasvc/disco-dop][url]])
