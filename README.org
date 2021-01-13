@@ -13,6 +13,10 @@ This is a list of [[https://github.com][Github]] repositories created or maintai
 or former ILLC members. Current versions of the repos [[https://github.com/illc-uva?tab=repositories][are also
 available here]].
 
++ Encodings of Judgment Aggregation (JA) problems into Answer Set
+  Programming (ASP) ([[https://github.com/rdehaan/ja-asp][url]])
++ A Python package for creating and manipulating logical sentences
+  written in the negation normal form (NNF) ([[https://github.com/QuMuLab/python-nnf][url]])
 + SignLab ([[https://github.com/froelofs/signlab][url]])
 + Auto-Encoding Variational Neural Machine Translation (PyTorch) ([[https://github.com/Roxot/AEVNMT.pt][url]])
 + BEER 2.0 ([[https://github.com/stanojevic/beer][url]])
