@@ -13,6 +13,9 @@ This is a list of [[https://github.com][Github]] repositories created or maintai
 or former ILLC members. Current versions of the repos [[https://github.com/illc-uva?tab=repositories][are also
 available here]].
 
++ Official code for the paper [[https://arxiv.org/abs/2009.04891][Meta-Learning with Sparse Experience Replay for Lifelong Language Learning]] ([[https://github.com/Nithin-Holla/MetaLifelongLanguage][url]])
++ Official code for the paper [[https://arxiv.org/abs/2004.14355][Learning to Learn to Disambiguate: Meta-Learning for Few-Shot Word Sense Disambiguation]] ([[https://github.com/Nithin-Holla/MetaWSD][url]])
++ Official code for the paper [[https://arxiv.org/abs/2008.06274][Graph-based Modeling of Online Communities for Fake News Detection]] ([[https://github.com/shaanchandra/SAFER][url]])
 + Encodings of Judgment Aggregation (JA) problems into Answer Set
   Programming (ASP) ([[https://github.com/rdehaan/ja-asp][url]])
 + A Python package for creating and manipulating logical sentences
