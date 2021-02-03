@@ -1,6 +1,8 @@
 #+title: ILLC Code on Github
 #+export_file_name: index.html
 #+options: toc:nil
+#+options: creator:t
+#+options: email:nil
 #+options: html-postamble:auto html-preamble:t tex:t
 #+options: html-style:nil
 #+html_head: <link rel="stylesheet" type="text/css" href="site.css" />
