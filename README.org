@@ -14,12 +14,11 @@ This is a list of [[https://github.com][Github]] repositories created or maintai
 or former members of [[https://www.illc.uva.nl][the Institute for Logic, Language and Computation]]
 (ILLC). Current versions of the repos [[https://github.com/illc-uva?tab=repositories][are also available here]].
 
-+ Dialogue Modelling Group
-  + Language and Vision
-    + Generating Image Descriptions via Sequential Cross-Modal Alignment Guided by Human Gaze ([[https://github.com/dmg-illc/didec-seq-gen][url]])
-    + MALeViC: Modeling Adjectives Leveraging Visual Contexts ([[https://github.com/sandropezzelle/malevic][url]])
-    + The PhotoBook Dataset: Building Common Ground through Visually Grounded Dialogue ([[https://dmg-photobook.github.io][url]])
-    + VISTA: Visually Grounded Talking Agents ([[https://vista-unitn-uva.github.io][url]])
++ Dialogue Modelling Group ([[https://dmg-illc.github.io/dmg/][url]])
+  + Generating Image Descriptions via Sequential Cross-Modal Alignment Guided by Human Gaze ([[https://github.com/dmg-illc/didec-seq-gen][url]])
+  + MALeViC: Modeling Adjectives Leveraging Visual Contexts ([[https://github.com/sandropezzelle/malevic][url]])
+  + The PhotoBook Dataset: Building Common Ground through Visually Grounded Dialogue ([[https://dmg-photobook.github.io][url]])
+  + VISTA: Visually Grounded Talking Agents ([[https://vista-unitn-uva.github.io][url]])
 + This package contains support functions for Computational Musicology at the University of Amsterdam ([[https://github.com/jaburgoyne/compmus][url]])
 + Official code for the paper [[https://www.ingentaconnect.com/contentone/aup/nt/2020/00000025/00000001/art00003][Een corpus waar alle constructies in gevonden zouden moeten kunnen worden?]] ([[https://github.com/bloemj/5verbclusters][url]])
 + A SWI-Prolog interface to Hypothesis ([[https://github.com/conceptsinmotion/hypothesis][url]])
