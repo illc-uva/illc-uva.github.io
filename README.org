@@ -14,6 +14,15 @@ This is a list of [[https://github.com][Github]] repositories created or maintai
 or former members of [[https://www.illc.uva.nl][the Institute for Logic, Language and Computation]]
 (ILLC). Current versions of the repos [[https://github.com/illc-uva?tab=repositories][are also available here]].
 
++ Logic, Language, Computation, and Cognition Group
+  + Official code for the paper [[https://semanticsarchive.net/Archive/mQ2Y2Y2Z/LearnabilitySemanticUniversals.pdf][Learnability and Semantic Universals]] ([[https://github.com/shanest/quantifier-rnn-learning][url]])
+  + Official code for the paper [[https://semanticsarchive.net/Archive/zM5ZGIxM/EaseLearning.pdf][Ease of Learning Explains Semantic Universals]] ([[https://github.com/shanest/color-learning][url]])
+  + Official code for the paper [[https://semanticsarchive.net/Archive/DI5ZTNmN/UniversalResponsiveVerbs.pdf][An Explanation of the Veridical Uniformity Universal]] ([[https://github.com/shanest/responsive-verbs][url]])
+  + Official code for the paper [[https://www.aclweb.org/anthology/W19-2916.pdf][Neural Models of the Psychosemantics of ‘Most’]] ([[https://github.com/shanest/neural-vision-most][url]])
+  + Simplicity vs. Informativeness trade-off for quantifiers ([[https://github.com/shanest/SimInf_Quantifiers][url]])
+  + Signaling games with function words amidst contextual variability ([[https://github.com/shanest/function-words-context][url]])
+  + The emergence of monotone quantifiers via iterated learning ([[https://github.com/thelogicalgrammar/NeuralNetIteratedQuantifiers][url]])
+  + Official code for the paper [[https://osf.io/gmavn/][Complexity/informativeness trade/off in the domain of indefinite pronouns]] ([[https://github.com/milicaden/indefinite-pronouns-SALT][url]])
 + Dialogue Modelling Group ([[https://dmg-illc.github.io/dmg/][url]])
   + Generating Image Descriptions via Sequential Cross-Modal Alignment Guided by Human Gaze ([[https://github.com/dmg-illc/didec-seq-gen][url]])
   + MALeViC: Modeling Adjectives Leveraging Visual Contexts ([[https://github.com/sandropezzelle/malevic][url]])
