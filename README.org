@@ -14,6 +14,13 @@ This is a list of [[https://github.com][Github]] repositories created or maintai
 or former members of [[https://www.illc.uva.nl][the Institute for Logic, Language and Computation]]
 (ILLC). Current versions of the repos [[https://github.com/illc-uva?tab=repositories][are also available here]].
 
++ Quantum Information @ Amsterdam ([[https://github.com/amsqi][url]])
+  + A Python package for rigorous free fermion entanglement renormalization from wavelet theory ([[https://github.com/amsqi/pyfermions][url]])
+  + A SageMath package for computing moment polytopes associated with finite-dimensional representations of compact and connected Lie groups ([[https://github.com/amsqi/moment_polytopes][url]])
+  + This is a Python module and Jupyter notebook for tensor scaling, computing entanglement polytopes, and solving the one-body quantum marginal problem. ([[https://github.com/amsqi/tensorscaling][url]])
+  + A Maple package for computing Kronecker coefficients g(λ,μ,ν) ([[https://github.com/amsqi/kronecker][url]])
+  + Efficiently compute Kronecker coefficients of bounded height ([[https://github.com/amsqi/barvikron][url]])
+  + Python code to calculate the entanglement fidelity and success probability of certain port-based teleportation protocols, as well as their asymptotics ([[https://github.com/amsqi/port-based][url]])
 + Logic, Language, Computation, and Cognition Group
   + Official code for the paper [[https://semanticsarchive.net/Archive/mQ2Y2Y2Z/LearnabilitySemanticUniversals.pdf][Learnability and Semantic Universals]] ([[https://github.com/shanest/quantifier-rnn-learning][url]])
   + Official code for the paper [[https://semanticsarchive.net/Archive/zM5ZGIxM/EaseLearning.pdf][Ease of Learning Explains Semantic Universals]] ([[https://github.com/shanest/color-learning][url]])
