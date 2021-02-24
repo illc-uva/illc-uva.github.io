@@ -17,7 +17,7 @@ or former members of [[https://www.illc.uva.nl][the Institute for Logic, Languag
 + Quantum Information @ Amsterdam ([[https://github.com/amsqi][url]])
   + A Python package for rigorous free fermion entanglement renormalization from wavelet theory ([[https://github.com/amsqi/pyfermions][url]])
   + A SageMath package for computing moment polytopes associated with finite-dimensional representations of compact and connected Lie groups ([[https://github.com/amsqi/moment_polytopes][url]])
-  + This is a Python module and Jupyter notebook for tensor scaling, computing entanglement polytopes, and solving the one-body quantum marginal problem. ([[https://github.com/amsqi/tensorscaling][url]])
+  + This is a Python module and Jupyter notebook for tensor scaling, computing entanglement polytopes, and solving the one-body quantum marginal problem ([[https://github.com/amsqi/tensorscaling][url]])
   + A Maple package for computing Kronecker coefficients g(λ,μ,ν) ([[https://github.com/amsqi/kronecker][url]])
   + Efficiently compute Kronecker coefficients of bounded height ([[https://github.com/amsqi/barvikron][url]])
   + Python code to calculate the entanglement fidelity and success probability of certain port-based teleportation protocols, as well as their asymptotics ([[https://github.com/amsqi/port-based][url]])
@@ -80,6 +80,7 @@ or former members of [[https://www.illc.uva.nl][the Institute for Logic, Languag
   + Interpretable Neural Predictions with Differentiable Binary Variables ([[https://github.com/bastings/interpretable_predictions][url]])
   + Material for a tutorial on variational inference for NLP audiences ([[https://github.com/vitutorial/VITutorial][url]])
   + Pytorch implementation of Block Neural Autoregressive Flow ([[https://github.com/nicola-decao/BNAF][url]])
+  + The Power Spherical distribution ([[https://github.com/nicola-decao/power_spherical][url]])
 + Open Raadsinformatie API ([[https://github.com/WaarOverheid/open-raadsinformatie][url]])
 + A symbolic model checker for Dynamic Epistemic Logic ([[https://github.com/jrclogic/SMCDEL][url]])
 
