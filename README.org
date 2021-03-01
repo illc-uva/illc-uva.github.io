@@ -36,6 +36,9 @@ or former members of [[https://www.illc.uva.nl][the Institute for Logic, Languag
   + The PhotoBook Dataset: Building Common Ground through Visually Grounded Dialogue ([[https://dmg-photobook.github.io][url]])
   + VISTA: Visually Grounded Talking Agents ([[https://vista-unitn-uva.github.io][url]])
 + Music Cognition Group
+  + Jackdaw: Jackdaw is a Common Lisp framework for defining discrete
+    dynamic Bayesian networks with deterministic constraints in a way
+    that involves writing very little code ([[https://github.com/experiencedlisteners/jackdaw][url]])
   + This package contains support functions for Computational Musicology at the University of Amsterdam ([[https://github.com/jaburgoyne/compmus][url]])
 + Concepts in Motion
   + A SWI-Prolog interface to Hypothesis ([[https://github.com/conceptsinmotion/hypothesis][url]])
