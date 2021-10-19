@@ -21,10 +21,8 @@ or former members of [[https://www.illc.uva.nl][the Institute for Logic, Languag
     + Distributional Semantics for Neo-Latin ([[https://github.com/bloemj/nonce2vec/tree/nonce2vec-latin][url]])
     + QuiNE-GT 1.0 ([[https://github.com/YOortwijn/QuiNE-ground-truth][url]])
     + Evaluating the consistency of word embeddings from small data ([[https://github.com/bloemj/quine2vec][url]])
-
 * Formal Semantics & Philosophical Logic (FSPL)
   + SignLab ([[https://github.com/froelofs/signlab][url]])
-
 * Language & Music Cognition (LMC)
   + Logic, Language, Computation, and Cognition Group
     + Official code for the paper [[https://semanticsarchive.net/Archive/mQ2Y2Y2Z/LearnabilitySemanticUniversals.pdf][Learnability and Semantic Universals]] ([[https://github.com/shanest/quantifier-rnn-learning][url]])
@@ -43,10 +41,6 @@ or former members of [[https://www.illc.uva.nl][the Institute for Logic, Languag
     + This package contains support functions for Computational Musicology at the University of Amsterdam ([[https://github.com/jaburgoyne/compmus][url]])
 * Mathematical & Computational Logic (MCL)
   + A symbolic model checker for Dynamic Epistemic Logic ([[https://github.com/jrclogic/SMCDEL][url]])
-
-If you wish to add a repository to this list and to [[https://github.com/illc-uva?tab=repositories][this collection of
-repositories]], please send an email to [[mailto:rdm-illc@uva.nl][rdm-illc@uva.nl]].
-
 * Natural Language Processing & Digital Humanities (NLP&DH)
   + Dialogue Modelling Group ([[https://dmg-illc.github.io/dmg/][url]])
     + Generating Image Descriptions via Sequential Cross-Modal Alignment Guided by Human Gaze ([[https://github.com/dmg-illc/didec-seq-gen][url]])
@@ -87,6 +81,7 @@ repositories]], please send an email to [[mailto:rdm-illc@uva.nl][rdm-illc@uva.n
     + Official code for the paper [[https://arxiv.org/abs/2009.04891][Meta-Learning with Sparse Experience Replay for Lifelong Language Learning]] ([[https://github.com/Nithin-Holla/MetaLifelongLanguage][url]])
     + Official code for the paper [[https://arxiv.org/abs/2004.14355][Learning to Learn to Disambiguate: Meta-Learning for Few-Shot Word Sense Disambiguation]] ([[https://github.com/Nithin-Holla/MetaWSD][url]])
     + Official code for the paper [[https://arxiv.org/abs/2008.06274][Graph-based Modeling of Online Communities for Fake News Detection]] ([[https://github.com/shaanchandra/SAFER][url]])
+    + Official code for the paper [[https://aclanthology.org/2021.naacl-main.286/][Wikipedia entities as rendezvous across languages: grounding multilingual LMs by predicting wikipedia hyperlinks]] ([[https://github.com/iacercalixto/wiki_crosslingual/][url]])
 * Theoretical Computer Science (TCS)
   + Quantum Information @ Amsterdam ([[https://github.com/amsqi][url]])
     + A Python package for rigorous free fermion entanglement renormalization from wavelet theory ([[https://github.com/amsqi/pyfermions][url]])
@@ -100,6 +95,10 @@ repositories]], please send an email to [[mailto:rdm-illc@uva.nl][rdm-illc@uva.n
       Programming (ASP) ([[https://github.com/rdehaan/ja-asp][url]])
     + A Python package for creating and manipulating logical sentences
       written in the negation normal form (NNF) ([[https://github.com/QuMuLab/python-nnf][url]])
+
+
+If you wish to add a repository to this list and to [[https://github.com/illc-uva?tab=repositories][this collection of
+repositories]], please send an email to [[mailto:rdm-illc@uva.nl][rdm-illc@uva.nl]].
 
 * COMMENT Local Variables
 # Local Variables:
