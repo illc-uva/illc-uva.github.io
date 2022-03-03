@@ -91,6 +91,7 @@ or former members of [[https://www.illc.uva.nl][the Institute for Logic, Languag
     + Efficiently compute Kronecker coefficients of bounded height ([[https://github.com/amsqi/barvikron][url]])
     + Python code to calculate the entanglement fidelity and success probability of certain port-based teleportation protocols, as well as their asymptotics ([[https://github.com/amsqi/port-based][url]])
   + Computational Social Choice
+    + Python Package for Computational Social Choice ([[https://github.com/comsoc-amsterdam/comsoc][url]])
     + Encodings of Judgment Aggregation (JA) problems into Answer Set
       Programming (ASP) ([[https://github.com/rdehaan/ja-asp][url]])
     + A Python package for creating and manipulating logical sentences
