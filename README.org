@@ -22,6 +22,7 @@ or former members of [[https://www.illc.uva.nl][the Institute for Logic, Languag
     + QuiNE-GT 1.0 ([[https://github.com/YOortwijn/QuiNE-ground-truth][url]])
     + Evaluating the consistency of word embeddings from small data ([[https://github.com/bloemj/quine2vec][url]])
 * Formal Semantics & Philosophical Logic (FSPL)
+  + Official code for the paper /[[https://www.journals.uchicago.edu/doi/epdf/10.1086/715140][The evolution of denial]]/, British Journal for the Philosophy of Science ([[https://github.com/gsbardolini/evolutionofdenial​][url]])
   + SignLab ([[https://github.com/froelofs/signlab][url]])
 * Language & Music Cognition (LMC)
   + Logic, Language, Computation, and Cognition Group
