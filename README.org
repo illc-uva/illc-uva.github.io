@@ -15,7 +15,7 @@ or former members of [[https://www.illc.uva.nl][the Institute for Logic, Languag
 (ILLC). Current versions of the repos [[https://github.com/illc-uva?tab=repositories][are also available here]].
 
 * Epistemology & Philosophy of Science (EPS)
-  + Concepts in Motion
+  + [[https://conceptsinmotion.org/][Concepts in Motion]]
     + A SWI-Prolog interface to Hypothesis ([[https://github.com/conceptsinmotion/hypothesis][url]])
     + Official code for the paper [[https://www.ingentaconnect.com/contentone/aup/nt/2020/00000025/00000001/art00003][Een corpus waar alle constructies in gevonden zouden moeten kunnen worden?]] ([[https://github.com/bloemj/5verbclusters][url]])
     + Distributional Semantics for Neo-Latin ([[https://github.com/bloemj/nonce2vec/tree/nonce2vec-latin][url]])
