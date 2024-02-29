@@ -42,6 +42,8 @@ or former members of [[https://www.illc.uva.nl][the Institute for Logic, Languag
     + This package contains support functions for Computational Musicology at the University of Amsterdam ([[https://github.com/jaburgoyne/compmus][url]])
 * Mathematical & Computational Logic (MCL)
   + A symbolic model checker for Dynamic Epistemic Logic ([[https://github.com/jrclogic/SMCDEL][url]])
+  + Leapfrog: certified equivalence for protocol parsers (Coq
+    formalization) ([[https://github.com/TobiasKappe/ka-fmp-proofs][url]])
 * Natural Language Processing & Digital Humanities (NLP&DH)
   + Dialogue Modelling Group ([[https://dmg-illc.github.io/dmg/][url]])
     + Generating Image Descriptions via Sequential Cross-Modal Alignment Guided by Human Gaze ([[https://github.com/dmg-illc/didec-seq-gen][url]])
