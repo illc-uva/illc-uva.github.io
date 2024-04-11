@@ -79,6 +79,13 @@ or former members of [[https://www.illc.uva.nl][the Institute for Logic, Languag
     + Material for a tutorial on variational inference for NLP audiences ([[https://github.com/vitutorial/VITutorial][url]])
     + Pytorch implementation of Block Neural Autoregressive Flow ([[https://github.com/nicola-decao/BNAF][url]])
     + The Power Spherical distribution ([[https://github.com/nicola-decao/power_spherical][url]])
+  + Probabilistic Language Learning Group ([[https://probabll.github.io/][url]])
+    + Sparse distributions compatible with ~torch.distributions~: [[https://github.com/probabll/dists.pt][code]] and [[https://arxiv.org/pdf/1905.08160.pdf][related paper]]
+    + Constrained optimisation in pytorch: [[https://github.com/EelcovdW/pytorch-constrained-opt][code]] and [[https://github.com/EelcovdW/pytorch-constrained-opt/blob/master/VAE%20Example.ipynb][example]]
+    + Block neural auto-regressive flows: [[https://github.com/nicola-decao/BNAF][code]] and [[https://arxiv.org/pdf/1904.04676.pdf][paper]]
+    + Joint generative model of tanslation: [[https://github.com/Roxot/AEVNMT][code]] and [[https://arxiv.org/pdf/1807.10564.pdf][paper]]
+    + Jupyter notebooks for continuous and discrete latent-variable VAEs: [[https://github.com/probabll/dgm4nlp][code]]
+    + Deep generative model for joint alignment and word representation: [[https://github.com/uva-slpl/embedalign][code]] and [[https://www.aclweb.org/anthology/N18-1092][paper]]
   + Open Raadsinformatie API ([[https://github.com/WaarOverheid/open-raadsinformatie][url]])
   + Papers
     + Official code for the paper [[https://www.aclweb.org/anthology/2020.findings-emnlp.402/][The Pragmatics behind Politics: Modelling Metaphor, Framing and Emotion in Political Discourse]] ([[https://github.com/LittlePea13/mtl_political_discourse][url]])
