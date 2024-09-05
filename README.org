@@ -42,7 +42,6 @@ or former members of [[https://www.illc.uva.nl][the Institute for Logic, Languag
       that involves writing very little code ([[https://github.com/experiencedlisteners/jackdaw][url]])
     + This package contains support functions for Computational Musicology at the University of Amsterdam ([[https://github.com/jaburgoyne/compmus][url]])
 * Mathematical & Computational Logic (MCL)
-  + A symbolic model checker for Dynamic Epistemic Logic ([[https://github.com/jrclogic/SMCDEL][url]])
   + Leapfrog: certified equivalence for protocol parsers (Coq
     formalization) ([[https://github.com/TobiasKappe/ka-fmp-proofs][url]])
 * Natural Language Processing & Digital Humanities (NLP&DH)
@@ -107,7 +106,8 @@ or former members of [[https://www.illc.uva.nl][the Institute for Logic, Languag
       Programming (ASP) ([[https://github.com/rdehaan/ja-asp][url]])
     + A Python package for creating and manipulating logical sentences
       written in the negation normal form (NNF) ([[https://github.com/QuMuLab/python-nnf][url]])
-
+  + Dynamic Epistemic Logic
+    + A symbolic model checker for Dynamic Epistemic Logic ([[https://github.com/jrclogic/SMCDEL][url]])
 
 If you wish to add a repository to this list and to [[https://github.com/illc-uva?tab=repositories][this collection of
 repositories]], please send an email to [[mailto:rdm-illc@uva.nl][rdm-illc@uva.nl]].
